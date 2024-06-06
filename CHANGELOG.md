@@ -19,6 +19,10 @@ our [guidelines for writing a good changelog entry](https://github.com/biomejs/b
 
 ### Linter
 
+#### New features
+
+- Add [nursery/noExportedImports](https://biomejs.dev/linter/rules/no-exported-imports/). Contributed by @Conaclos
+
 #### Bug fixes
 
 - The `no-empty-block` css lint rule now treats empty blocks containing comments as valid ones. Contributed by @Sec-ant
